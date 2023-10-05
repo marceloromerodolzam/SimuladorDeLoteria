@@ -1,0 +1,27 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div{
+    text-align: center;
+    background-color: #7fffd4;
+    margin: 250px 400px 250px 400px;
+    border-radius: 4px;
+    border: none;
+    box-shadow: 3px 3px 5px #316855;
+    padding: 10px;
+}
+
+li{
+    list-style-type: none;
+}
+
+input,button{
+    border-radius: 4px;
+    border: none;
+    box-shadow: 3px 3px 5px #316855;
+}
+
+button:hover{
+    background-color: #b3b3b3;
+}
